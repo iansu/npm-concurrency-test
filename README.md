@@ -2,6 +2,8 @@
 
 Test concurrent installs with npm. Also includes Yarn v1 for comparison.
 
+This repo contains 10 apps bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It does not use workspaces and attempts to run `npm install` (or `yarn install`) in all 10 projects in parallel.
+
 ## Usage
 
 ### npm
