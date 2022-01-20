@@ -1,0 +1,13 @@
+{
+  "name": "npm-concurrency-test",
+  "version": "1.0.0",
+  "description": "Test concurrent npm installs",
+  "author": "Ian Sutherland <ian@iansutherland.ca>",
+  "license": "MIT",
+  "scripts": {
+    "clean": "rimraf ./packages/**/node_modules"
+  },
+  "devDependencies": {
+    "rimraf": "^3.0.2"
+  }
+}
