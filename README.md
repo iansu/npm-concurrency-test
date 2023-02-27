@@ -14,7 +14,7 @@ This repo contains 10 apps bootstrapped with [Create React App](https://github.c
 
 `node yarn-install.js`
 
-Between tests you will want to clear out `node_modules` by running `npm run clean`
+Between tests you will want to clear out `node_modules` by running `npm run clean`.
 
 ## Expected Results
 
